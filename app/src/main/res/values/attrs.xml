@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><declare-styleable name="CustomNumberPicker">
+    <attr name="minLimit" format="integer" />
+    <attr name="maxLimit" format="integer" />
+    <attr name="textSizeInSp" format="integer" />
+    <attr name="symbolSizeInSp" format="integer" />
+</declare-styleable></resources>
